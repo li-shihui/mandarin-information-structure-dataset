@@ -1,1 +1,1 @@
-# chinese_information_structure_dataset
+# mandarin_Chinese_information_structure_dataset
