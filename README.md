@@ -1,1 +1,1 @@
-# chinese_information_structure_benchmark
+# chinese_information_structure_dataset
