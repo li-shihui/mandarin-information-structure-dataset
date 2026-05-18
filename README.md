@@ -24,12 +24,15 @@ Each `.jsonl` entry has the following format:
   "sentence_bad": "...",
   "pairID": 0
 }
-
+``` 
 ## Dataset Construction
 The dataset was adapted from paradigms in ZhoBLiMP through sentence structural transformations.
 
 ## Paper
-coming soon
+Li, S., Tan, X., and Bloem, J.  
+*Examining Large Language Models' form-meaning mappings of information structure constructions in Mandarin Chinese* (in press).
+
+https://openreview.net/forum?id=Vktj6eXtDm#
 
 ## Citation
 If you use this dataset, please cite our paper.
